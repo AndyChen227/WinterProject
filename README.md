@@ -35,6 +35,16 @@
 - 每学完一个知识点，在对应课程 README 里把 `- [ ]` 改成 `- [x]`。
 - commit 信息写清楚做了什么，例如 `c-basics: arrays notes + 3 exercises`。
 
+## 学习流程（每看完一节课）
+
+1. **笔记**：复制 `NOTE_TEMPLATE.md` 到对应课程的 `notes/`，按知识点命名，比如 `courses/01-c-basics/notes/03-loops.md`。
+2. **代码**：把课上的例子自己敲一遍，再写 1–2 个自己的小练习，放到 `code/`，和笔记同名（`03-loops.c`）。
+3. **打勾**：在课程 README 里把学会的知识点 `- [ ]` 改成 `- [x]`。
+4. **提交**：`git add . && git commit -m "c-basics: loops notes + 2 exercises" && git push`。
+5. **每周日**：更新下面的进度，没学完的写一句卡在哪。
+
+> CS50 的 problem set 答案不要放进这个公开仓库：CS50 的学术诚信政策不允许公开答案。problem set 放在本地或单独的私有仓库，这里只放笔记和自己写的练习。
+
 ## 进度
 
 - [ ] C 入门
