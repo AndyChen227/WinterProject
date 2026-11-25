@@ -1,0 +1,19 @@
+# C build output
+*.o
+*.obj
+*.out
+*.exe
+a.out
+build/
+
+# STM32CubeIDE
+Debug/
+Release/
+.metadata/
+*.launch
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
