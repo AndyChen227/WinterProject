@@ -4,6 +4,8 @@
 
 基于 ESP32-S3 + FreeRTOS（ESP-IDF），语音经云端大模型（DeepSeek / Claude）处理。参考开源项目“小智 AI”（xiaozhi-esp32）。项目尚未开始，下面是计划。
 
+整体计划按 9 个板块拆分，每个板块要实现的功能见 [PLAN.md](PLAN.md)。
+
 ## 工作原理
 
 ```
@@ -49,6 +51,7 @@ ai-pet-car/
 ├── firmware/    # ESP-IDF 工程
 ├── server/      # 服务端（L5 再做）
 ├── hardware/    # 接线图、引脚分配、电源设计
+├── PLAN.md      # 板块计划，做到哪个板块就补它的详细步骤
 ├── docs/        # 设计说明、调试记录、测试数据
 └── media/       # 照片、演示视频
 ```
