@@ -1,6 +1,6 @@
 # Learning C for Embedded Systems
 
-从零学 C 语言，到能在 STM32 上用 FreeRTOS 做一个机械臂。这个仓库记录全过程：课程笔记、练习代码、刷题和项目。
+从零学 C 语言，到能在 ESP32-S3 上用 FreeRTOS 做一台会对话的 AI 电子宠物小车。这个仓库记录全过程：课程笔记、练习代码、刷题和项目。
 
 ## 路线
 
@@ -8,10 +8,10 @@
 | --- | --- | --- | --- |
 | 1. C 入门 | 2026.11 – 2026.12 中 | 变量、循环、函数、数组、字符串 | [courses/01-c-basics](courses/01-c-basics) |
 | 2. C 进阶 | 寒假第 1 周 | 指针、结构体、动态内存、位运算 | [courses/02-c-advanced](courses/02-c-advanced) |
-| 3. STM32 入门 | 寒假第 2–3 周 | GPIO、中断、UART、定时器 PWM、ADC、I2C | [courses/03-stm32-basics](courses/03-stm32-basics) |
+| 3. ESP32 入门 | 寒假第 1–3 周 | GPIO、中断、PWM、SPI 屏幕、I2S 音频、Wi-Fi | [courses/03-esp32-basics](courses/03-esp32-basics) |
 | 4. FreeRTOS | 2027.01 | 任务、队列、信号量、调度 | [courses/04-freertos](courses/04-freertos) |
 | 5. 面试准备 | 2027.01 – 03 | 嵌入式常见问题、模电数电、射频基础 | [courses/05-interview-prep](courses/05-interview-prep) |
-| 项目 | 寒假 – 2027.02 | STM32 + FreeRTOS 4 自由度机械臂 | [projects/stm32-robot-arm](projects/stm32-robot-arm) |
+| 项目 | 寒假 – 春季学期 | AI 电子宠物小车（ESP32-S3 + 大模型） | [projects/ai-pet-car](projects/ai-pet-car) |
 | 刷题 | 全程，每天 1 题 | LeetCode（用 C 写） | [leetcode](leetcode) |
 
 ## 目录结构
@@ -25,7 +25,7 @@
 │       └── code/            # 练习代码，一个知识点一个 .c
 ├── leetcode/                # 刷题，文件名：<题号>-<题目英文名>.c
 ├── projects/
-│   └── stm32-robot-arm/     # 机械臂项目
+│   └── ai-pet-car/          # AI 电子宠物小车
 └── NOTE_TEMPLATE.md         # 笔记模板
 ```
 
@@ -49,7 +49,7 @@
 
 - [ ] C 入门
 - [ ] C 进阶
-- [ ] STM32 入门
+- [ ] ESP32 入门
 - [ ] FreeRTOS
-- [ ] 机械臂项目
+- [ ] AI 电子宠物小车
 - [ ] LeetCode 50 题
