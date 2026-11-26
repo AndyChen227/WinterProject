@@ -18,15 +18,15 @@
 
 ```
 .
-├── courses/                 # 每门课一个文件夹
+├── courses/                  # 课程
+│   ├── NOTE_TEMPLATE.md      # 笔记模板，每篇笔记从这里复制
 │   └── 0X-<course>/
-│       ├── README.md        # 大纲 + 知识点清单（学完打勾）
-│       ├── notes/           # 笔记，一个知识点一个 .md
-│       └── code/            # 练习代码，一个知识点一个 .c
-├── leetcode/                # 刷题，文件名：<题号>-<题目英文名>.c
-├── projects/
-│   └── ai-pet-car/          # AI 电子宠物小车
-└── NOTE_TEMPLATE.md         # 笔记模板
+│       ├── README.md         # 大纲 + 知识点清单（学完打勾）
+│       ├── notes/            # 笔记，一个知识点一个 .md
+│       └── code/             # 练习代码，一个知识点一个 .c
+├── leetcode/                 # 刷题，文件名：<题号>-<题目英文名>.c
+└── projects/
+    └── ai-pet-car/           # AI 电子宠物小车
 ```
 
 ## 约定
@@ -37,7 +37,7 @@
 
 ## 学习流程（每看完一节课）
 
-1. **笔记**：复制 `NOTE_TEMPLATE.md` 到对应课程的 `notes/`，按知识点命名，比如 `courses/01-c-basics/notes/03-loops.md`。
+1. **笔记**：复制 [`courses/NOTE_TEMPLATE.md`](courses/NOTE_TEMPLATE.md) 到对应课程的 `notes/`，按知识点命名，比如 `courses/01-c-basics/notes/03-loops.md`。
 2. **代码**：把课上的例子自己敲一遍，再写 1–2 个自己的小练习，放到 `code/`，和笔记同名（`03-loops.c`）。
 3. **打勾**：在课程 README 里把学会的知识点 `- [ ]` 改成 `- [x]`。
 4. **提交**：`git add . && git commit -m "c-basics: loops notes + 2 exercises" && git push`。
