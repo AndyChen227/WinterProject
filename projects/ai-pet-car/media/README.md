@@ -9,3 +9,5 @@
 [`art/`](art) 里是为这个项目原创绘制的 SVG 插图（吉祥物、横幅、流程图），可以直接在文档里引用：
 
 <img src="art/stickers.svg" width="100%">
+
+屏幕看板娘 **小橙 Cora** 的立绘和设定在 [`art/cora/`](art/cora)。
