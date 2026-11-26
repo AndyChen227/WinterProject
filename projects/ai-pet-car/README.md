@@ -10,7 +10,7 @@
 ![Python](https://img.shields.io/badge/Python-AI%20服务-FFD43B?style=for-the-badge&logo=python&logoColor=black)
 
 **一台住在桌面上的小宠物车** 🐾<br>
-你跟它说话，它会用声音回答你，圆圆的屏幕上会跟着变表情；<br>
+你跟它说话，它会用声音回答你，3.5 寸大屏上的动漫少女会跟着变表情；<br>
 你说“转个圈”“往前走”，它就真的动起来！
 
 </div>
