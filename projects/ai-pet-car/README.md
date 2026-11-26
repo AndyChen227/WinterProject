@@ -19,6 +19,11 @@
 
 ## 🐱 认识一下它
 
+<div align="center">
+<img src="media/art/cora/cora.svg" alt="屏幕看板娘 小橙" width="260"><br>
+<sub>屏幕里住着的看板娘：<b>小橙 Cora</b>（<a href="media/art/cora">角色设定</a>）</sub>
+</div>
+
 <table>
 <tr>
 <td align="center" width="16%"><img src="media/art/mascot-happy.svg" width="90"><br><sub>开心</sub></td>
@@ -30,7 +35,7 @@
 </tr>
 </table>
 
-> 这是它的设想形象：奶白色的身体、粉色腰带、带猫耳朵的圆屏脑袋。屏幕上的表情会根据聊天内容自己切换。
+> 上面是小车本体的设想形象：奶白色的身体、粉色腰带、猫耳朵。3.5 寸屏幕里住着看板娘小橙，以后会根据聊天内容切换表情。
 
 ## ✨ 它是怎么工作的
 
