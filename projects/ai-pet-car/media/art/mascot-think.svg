@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240" width="240" height="240">
+
+  <g transform="translate(0 0) scale(1.0)">
+    <!-- shadow -->
+    <ellipse cx="120" cy="226" rx="78" ry="8" fill="#5B4A42" opacity="0.12"/>
+    <!-- wheels -->
+    <rect x="28" y="168" width="34" height="56" rx="14" fill="#4A4A5A" stroke="#5B4A42" stroke-width="4"/>
+    <rect x="178" y="168" width="34" height="56" rx="14" fill="#4A4A5A" stroke="#5B4A42" stroke-width="4"/>
+    <circle cx="45" cy="196" r="7" fill="#C9C9D6"/>
+    <circle cx="195" cy="196" r="7" fill="#C9C9D6"/>
+    <!-- body -->
+    <rect x="50" y="150" width="140" height="70" rx="26" fill="#FFF7EE" stroke="#5B4A42" stroke-width="4"/>
+    <rect x="52" y="180" width="136" height="12" fill="#FF9EBB"/>
+    <circle cx="120" cy="186" r="9" fill="#FFE07A" stroke="#5B4A42" stroke-width="3"/>
+    <!-- neck -->
+    <rect x="108" y="140" width="24" height="16" rx="6" fill="#FFF7EE" stroke="#5B4A42" stroke-width="4"/>
+    <!-- ears -->
+    <path d="M58 62 L64 8 L104 36 Z" fill="#FFF7EE" stroke="#5B4A42" stroke-width="4" stroke-linejoin="round"/>
+    <path d="M182 62 L176 8 L136 36 Z" fill="#FFF7EE" stroke="#5B4A42" stroke-width="4" stroke-linejoin="round"/>
+    <path d="M68 50 L71 22 L92 37 Z" fill="#FF9EBB"/>
+    <path d="M172 50 L169 22 L148 37 Z" fill="#FF9EBB"/>
+    <!-- head bezel -->
+    <circle cx="120" cy="96" r="66" fill="#FFF7EE" stroke="#5B4A42" stroke-width="4"/>
+    <!-- screen -->
+    <circle cx="120" cy="96" r="54" fill="#2E3150"/>
+    <ellipse cx="102" cy="64" rx="18" ry="7" fill="#fff" opacity="0.12" transform="rotate(-25 102 64)"/>
+    
+      <ellipse cx="96" cy="92" rx="13" ry="17" fill="#8FD8FF"/>
+      <ellipse cx="144" cy="92" rx="13" ry="17" fill="#8FD8FF"/>
+      <ellipse cx="96" cy="88" rx="8" ry="11" fill="#3A7BD5"/>
+      <ellipse cx="144" cy="88" rx="8" ry="11" fill="#3A7BD5"/>
+      <circle cx="91" cy="85" r="5" fill="#fff"/>
+      <circle cx="139" cy="85" r="5" fill="#fff"/>
+      <circle cx="101" cy="93" r="2.2" fill="#fff"/>
+      <circle cx="149" cy="93" r="2.2" fill="#fff"/>
+    <ellipse cx="80" cy="116" rx="9" ry="5" fill="#FF9EBB" opacity="0.85"/>
+    <ellipse cx="160" cy="116" rx="9" ry="5" fill="#FF9EBB" opacity="0.85"/>
+    <path d="M112 120 h16" fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round"/>
+    <g fill="#5B4A42"><circle cx="196" cy="42" r="5"/><circle cx="212" cy="28" r="6"/><circle cx="229" cy="13" r="7"/></g>
+  </g>
+</svg>

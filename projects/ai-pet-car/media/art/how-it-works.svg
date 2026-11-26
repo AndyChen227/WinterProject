@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1046 270" width="1046" height="270">
+<rect x="1" y="1" width="1044" height="268" rx="24" fill="#FFFFFF" stroke="#F1E6E0" stroke-width="2"/><g transform="translate(10 40)">
+    <rect width="210" height="190" rx="24" fill="#FFF1F5" stroke="#5B4A42" stroke-width="3"/>
+    <text x="105" y="78" text-anchor="middle" font-size="54">🗣️</text>
+    <text x="105" y="128" text-anchor="middle" font-size="24" font-weight="800" fill="#5B4A42" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC','Noto Sans SC',sans-serif">你说话</text>
+    <text x="105" y="160" text-anchor="middle" font-size="17" fill="#8A7A72" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC','Noto Sans SC',sans-serif">“转个圈吧！”</text>
+  </g><path d="M232 135 h34" stroke="#5B4A42" stroke-width="4" stroke-linecap="round"/><path d="M262 125 l12 10 l-12 10" fill="none" stroke="#5B4A42" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><g transform="translate(282 40)">
+    <rect width="210" height="190" rx="24" fill="#FFF7EE" stroke="#5B4A42" stroke-width="3"/>
+    <text x="105" y="78" text-anchor="middle" font-size="54">🐱</text>
+    <text x="105" y="128" text-anchor="middle" font-size="24" font-weight="800" fill="#5B4A42" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC','Noto Sans SC',sans-serif">小车听到</text>
+    <text x="105" y="160" text-anchor="middle" font-size="17" fill="#8A7A72" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC','Noto Sans SC',sans-serif">麦克风录音，Wi-Fi 发出去</text>
+  </g><path d="M504 135 h34" stroke="#5B4A42" stroke-width="4" stroke-linecap="round"/><path d="M534 125 l12 10 l-12 10" fill="none" stroke="#5B4A42" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><g transform="translate(554 40)">
+    <rect width="210" height="190" rx="24" fill="#EAF6FF" stroke="#5B4A42" stroke-width="3"/>
+    <text x="105" y="78" text-anchor="middle" font-size="54">🧠</text>
+    <text x="105" y="128" text-anchor="middle" font-size="24" font-weight="800" fill="#5B4A42" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC','Noto Sans SC',sans-serif">AI 想一想</text>
+    <text x="105" y="160" text-anchor="middle" font-size="17" fill="#8A7A72" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC','Noto Sans SC',sans-serif">电脑上的大模型</text>
+  </g><path d="M776 135 h34" stroke="#5B4A42" stroke-width="4" stroke-linecap="round"/><path d="M806 125 l12 10 l-12 10" fill="none" stroke="#5B4A42" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><g transform="translate(826 40)">
+    <rect width="210" height="190" rx="24" fill="#FFF7D6" stroke="#5B4A42" stroke-width="3"/>
+    <text x="105" y="78" text-anchor="middle" font-size="54">✨</text>
+    <text x="105" y="128" text-anchor="middle" font-size="24" font-weight="800" fill="#5B4A42" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC','Noto Sans SC',sans-serif">小车回应</text>
+    <text x="105" y="160" text-anchor="middle" font-size="17" fill="#8A7A72" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC','Noto Sans SC',sans-serif">说话 + 换表情 + 动起来</text>
+  </g>
+</svg>

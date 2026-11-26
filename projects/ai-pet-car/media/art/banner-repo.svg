@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="1200" height="340">
+<defs><linearGradient id="bg2" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#EAF6FF"/><stop offset="1" stop-color="#FFF1F5"/></linearGradient></defs>
+  <rect width="1200" height="340" rx="28" fill="url(#bg2)"/><path transform="translate(1150 50)" d="M0 -14 Q2.52 -2.52 14 0 Q2.52 2.52 0 14 Q-2.52 2.52 -14 0 Q-2.52 -2.52 0 -14 Z" fill="#FFC94D"/><path transform="translate(700 60)" d="M0 -9 Q1.6199999999999999 -1.6199999999999999 9 0 Q1.6199999999999999 1.6199999999999999 0 9 Q-1.6199999999999999 1.6199999999999999 -9 0 Q-1.6199999999999999 -1.6199999999999999 0 -9 Z" fill="#FF9EBB"/><path transform="translate(1000 40)" d="M0 -8 Q1.44 -1.44 8 0 Q1.44 1.44 0 8 Q-1.44 1.44 -8 0 Q-1.44 -1.44 0 -8 Z" fill="#8FD8FF"/><path transform="translate(760 300)" d="M0 -8 Q1.44 -1.44 8 0 Q1.44 1.44 0 8 Q-1.44 1.44 -8 0 Q-1.44 -1.44 0 -8 Z" fill="#FFC94D"/><g font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC','Noto Sans SC',sans-serif" font-weight="800">
+    <g transform="translate(70 200)"><rect width="150" height="70" rx="20" fill="#fff" stroke="#5B4A42" stroke-width="3"/><text x="75" y="46" text-anchor="middle" font-size="30" fill="#3A7BD5">C 语言</text></g>
+    <path d="M232 235 h34" stroke="#5B4A42" stroke-width="4" stroke-linecap="round"/><path d="M262 225 l12 10 l-12 10" fill="none" stroke="#5B4A42" stroke-width="4" stroke-linecap="round"/>
+    <g transform="translate(286 200)"><rect width="150" height="70" rx="20" fill="#fff" stroke="#5B4A42" stroke-width="3"/><text x="75" y="46" text-anchor="middle" font-size="30" fill="#2E9C6A">ESP32</text></g>
+    <path d="M448 235 h34" stroke="#5B4A42" stroke-width="4" stroke-linecap="round"/><path d="M478 225 l12 10 l-12 10" fill="none" stroke="#5B4A42" stroke-width="4" stroke-linecap="round"/>
+    <g transform="translate(502 200)"><rect width="170" height="70" rx="20" fill="#fff" stroke="#5B4A42" stroke-width="3"/><text x="85" y="46" text-anchor="middle" font-size="30" fill="#A8740A">FreeRTOS</text></g>
+    <path d="M684 235 h34" stroke="#5B4A42" stroke-width="4" stroke-linecap="round"/><path d="M714 225 l12 10 l-12 10" fill="none" stroke="#5B4A42" stroke-width="4" stroke-linecap="round"/>
+  </g>
+  <text x="70" y="110" font-size="56" font-weight="800" fill="#5B4A42" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC','Noto Sans SC',sans-serif">从零学 C 到 AI 宠物小车</text>
+  <text x="72" y="160" font-size="26" fill="#8A7A72" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC','Noto Sans SC',sans-serif">嵌入式学习日记 · 课程笔记 · 刷题 · 项目</text>
+  <g transform="translate(880 70) scale(1.05)">
+    <!-- shadow -->
+    <ellipse cx="120" cy="226" rx="78" ry="8" fill="#5B4A42" opacity="0.12"/>
+    <!-- wheels -->
+    <rect x="28" y="168" width="34" height="56" rx="14" fill="#4A4A5A" stroke="#5B4A42" stroke-width="4"/>
+    <rect x="178" y="168" width="34" height="56" rx="14" fill="#4A4A5A" stroke="#5B4A42" stroke-width="4"/>
+    <circle cx="45" cy="196" r="7" fill="#C9C9D6"/>
+    <circle cx="195" cy="196" r="7" fill="#C9C9D6"/>
+    <!-- body -->
+    <rect x="50" y="150" width="140" height="70" rx="26" fill="#FFF7EE" stroke="#5B4A42" stroke-width="4"/>
+    <rect x="52" y="180" width="136" height="12" fill="#FF9EBB"/>
+    <circle cx="120" cy="186" r="9" fill="#FFE07A" stroke="#5B4A42" stroke-width="3"/>
+    <!-- neck -->
+    <rect x="108" y="140" width="24" height="16" rx="6" fill="#FFF7EE" stroke="#5B4A42" stroke-width="4"/>
+    <!-- ears -->
+    <path d="M58 62 L64 8 L104 36 Z" fill="#FFF7EE" stroke="#5B4A42" stroke-width="4" stroke-linejoin="round"/>
+    <path d="M182 62 L176 8 L136 36 Z" fill="#FFF7EE" stroke="#5B4A42" stroke-width="4" stroke-linejoin="round"/>
+    <path d="M68 50 L71 22 L92 37 Z" fill="#FF9EBB"/>
+    <path d="M172 50 L169 22 L148 37 Z" fill="#FF9EBB"/>
+    <!-- head bezel -->
+    <circle cx="120" cy="96" r="66" fill="#FFF7EE" stroke="#5B4A42" stroke-width="4"/>
+    <!-- screen -->
+    <circle cx="120" cy="96" r="54" fill="#2E3150"/>
+    <ellipse cx="102" cy="64" rx="18" ry="7" fill="#fff" opacity="0.12" transform="rotate(-25 102 64)"/>
+    
+      <ellipse cx="96" cy="92" rx="13" ry="17" fill="#8FD8FF"/>
+      <ellipse cx="144" cy="92" rx="13" ry="17" fill="#8FD8FF"/>
+      <ellipse cx="96" cy="96" rx="8" ry="11" fill="#3A7BD5"/>
+      <ellipse cx="144" cy="96" rx="8" ry="11" fill="#3A7BD5"/>
+      <circle cx="91" cy="85" r="5" fill="#fff"/>
+      <circle cx="139" cy="85" r="5" fill="#fff"/>
+      <circle cx="101" cy="101" r="2.2" fill="#fff"/>
+      <circle cx="149" cy="101" r="2.2" fill="#fff"/>
+    <ellipse cx="80" cy="116" rx="9" ry="5" fill="#FF9EBB" opacity="0.85"/>
+    <ellipse cx="160" cy="116" rx="9" ry="5" fill="#FF9EBB" opacity="0.85"/>
+    <path d="M110 118 q5 6 10 0 q5 6 10 0" fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round"/>
+    
+  </g>
+</svg>

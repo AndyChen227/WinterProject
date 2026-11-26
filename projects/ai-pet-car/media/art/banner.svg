@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 380" width="1200" height="380">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#FFF1F5"/><stop offset="1" stop-color="#EAF6FF"/>
+  </linearGradient></defs>
+  <rect width="1200" height="380" rx="28" fill="url(#bg)"/><path transform="translate(1100 70)" d="M0 -16 Q2.88 -2.88 16 0 Q2.88 2.88 0 16 Q-2.88 2.88 -16 0 Q-2.88 -2.88 0 -16 Z" fill="#FFC94D"/><path transform="translate(1140 120)" d="M0 -9 Q1.6199999999999999 -1.6199999999999999 9 0 Q1.6199999999999999 1.6199999999999999 0 9 Q-1.6199999999999999 1.6199999999999999 -9 0 Q-1.6199999999999999 -1.6199999999999999 0 -9 Z" fill="#FF9EBB"/><path transform="translate(470 60)" d="M0 -10 Q1.7999999999999998 -1.7999999999999998 10 0 Q1.7999999999999998 1.7999999999999998 0 10 Q-1.7999999999999998 1.7999999999999998 -10 0 Q-1.7999999999999998 -1.7999999999999998 0 -10 Z" fill="#8FD8FF"/><path transform="translate(80 300)" d="M0 -8 Q1.44 -1.44 8 0 Q1.44 1.44 0 8 Q-1.44 1.44 -8 0 Q-1.44 -1.44 0 -8 Z" fill="#FFC94D"/><path transform="translate(1060 320)" d="M0 -12 Q2.16 -2.16 12 0 Q2.16 2.16 0 12 Q-2.16 2.16 -12 0 Q-2.16 -2.16 0 -12 Z" fill="#8FD8FF"/><path transform="translate(360 330)" d="M0 -7 Q1.26 -1.26 7 0 Q1.26 1.26 0 7 Q-1.26 1.26 -7 0 Q-1.26 -1.26 0 -7 Z" fill="#FF9EBB"/>
+  <g transform="translate(60 70) scale(1.25)">
+    <!-- shadow -->
+    <ellipse cx="120" cy="226" rx="78" ry="8" fill="#5B4A42" opacity="0.12"/>
+    <!-- wheels -->
+    <rect x="28" y="168" width="34" height="56" rx="14" fill="#4A4A5A" stroke="#5B4A42" stroke-width="4"/>
+    <rect x="178" y="168" width="34" height="56" rx="14" fill="#4A4A5A" stroke="#5B4A42" stroke-width="4"/>
+    <circle cx="45" cy="196" r="7" fill="#C9C9D6"/>
+    <circle cx="195" cy="196" r="7" fill="#C9C9D6"/>
+    <!-- body -->
+    <rect x="50" y="150" width="140" height="70" rx="26" fill="#FFF7EE" stroke="#5B4A42" stroke-width="4"/>
+    <rect x="52" y="180" width="136" height="12" fill="#FF9EBB"/>
+    <circle cx="120" cy="186" r="9" fill="#FFE07A" stroke="#5B4A42" stroke-width="3"/>
+    <!-- neck -->
+    <rect x="108" y="140" width="24" height="16" rx="6" fill="#FFF7EE" stroke="#5B4A42" stroke-width="4"/>
+    <!-- ears -->
+    <path d="M58 62 L64 8 L104 36 Z" fill="#FFF7EE" stroke="#5B4A42" stroke-width="4" stroke-linejoin="round"/>
+    <path d="M182 62 L176 8 L136 36 Z" fill="#FFF7EE" stroke="#5B4A42" stroke-width="4" stroke-linejoin="round"/>
+    <path d="M68 50 L71 22 L92 37 Z" fill="#FF9EBB"/>
+    <path d="M172 50 L169 22 L148 37 Z" fill="#FF9EBB"/>
+    <!-- head bezel -->
+    <circle cx="120" cy="96" r="66" fill="#FFF7EE" stroke="#5B4A42" stroke-width="4"/>
+    <!-- screen -->
+    <circle cx="120" cy="96" r="54" fill="#2E3150"/>
+    <ellipse cx="102" cy="64" rx="18" ry="7" fill="#fff" opacity="0.12" transform="rotate(-25 102 64)"/>
+    
+      <ellipse cx="96" cy="92" rx="13" ry="17" fill="#8FD8FF"/>
+      <ellipse cx="144" cy="92" rx="13" ry="17" fill="#8FD8FF"/>
+      <ellipse cx="96" cy="96" rx="8" ry="11" fill="#3A7BD5"/>
+      <ellipse cx="144" cy="96" rx="8" ry="11" fill="#3A7BD5"/>
+      <circle cx="91" cy="85" r="5" fill="#fff"/>
+      <circle cx="139" cy="85" r="5" fill="#fff"/>
+      <circle cx="101" cy="101" r="2.2" fill="#fff"/>
+      <circle cx="149" cy="101" r="2.2" fill="#fff"/>
+    <ellipse cx="80" cy="116" rx="9" ry="5" fill="#FF9EBB" opacity="0.85"/>
+    <ellipse cx="160" cy="116" rx="9" ry="5" fill="#FF9EBB" opacity="0.85"/>
+    <path d="M110 118 q5 6 10 0 q5 6 10 0" fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round"/>
+    
+  </g><g transform="translate(300 70)">
+    <rect x="0" y="0" width="150" height="54" rx="27" fill="#fff" stroke="#5B4A42" stroke-width="3"/>
+    <path d="M24 50 L10 74 L46 52 Z" fill="#fff" stroke="#5B4A42" stroke-width="3" stroke-linejoin="round"/>
+    <rect x="12" y="46" width="40" height="8" fill="#fff"/>
+    <text x="75" y="35" text-anchor="middle" font-size="22" fill="#5B4A42" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC','Noto Sans SC',sans-serif" font-weight="700">你好呀！</text>
+  </g><text x="520" y="170" font-size="64" font-weight="800" fill="#5B4A42" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC','Noto Sans SC',sans-serif">AI 电子宠物小车</text>
+  <text x="522" y="225" font-size="28" fill="#8A7A72" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC','Noto Sans SC',sans-serif">会聊天 · 会做表情 · 会到处跑的桌面小伙伴</text>
+  <g font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC','Noto Sans SC',sans-serif" font-size="20" font-weight="700">
+    <rect x="522" y="260" width="130" height="40" rx="20" fill="#FFD6E2"/><text x="587" y="287" text-anchor="middle" fill="#C2456E">ESP32-S3</text>
+    <rect x="664" y="260" width="130" height="40" rx="20" fill="#DDF1FF"/><text x="729" y="287" text-anchor="middle" fill="#2C6FB0">FreeRTOS</text>
+    <rect x="806" y="260" width="130" height="40" rx="20" fill="#FFF0C2"/><text x="871" y="287" text-anchor="middle" fill="#A8740A">大模型对话</text>
+  </g>
+</svg>
