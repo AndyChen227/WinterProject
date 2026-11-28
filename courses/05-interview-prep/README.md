@@ -1,4 +1,4 @@
-<sub>[📚 课程](../README.md) › 05 · 面试准备</sub>
+<sub>[🏠 首页](../../README.md) › [📚 课程](../README.md) › 05 · 面试准备</sub>
 
 <img src="../../projects/ai-pet-car/media/art/mascot-love.svg" width="90" align="right">
 
@@ -15,6 +15,8 @@
 | # | 问题 | 笔记 | 日期 | 掌握 |
 | :-: | --- | :-: | :-: | :-: |
 | | <sub>还没有笔记，写完第一个问题的答案后在这里加一行</sub> | | | |
+
+<sub>✍️ 每个问题的答案写在 `notes/` 里，写完在这张表里加一行。</sub>
 
 ## 🧠 问题清单
 

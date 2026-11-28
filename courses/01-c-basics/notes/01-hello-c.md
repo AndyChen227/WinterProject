@@ -1,4 +1,4 @@
-<sub>[📚 课程](../../README.md) › [📘 01 · C 入门](../README.md) › 笔记</sub>
+<sub>[🏠 首页](../../../README.md) › [📚 课程](../../README.md) › [📘 01 · C 入门](../README.md) › 笔记</sub>
 
 # 01 · Hello, C：写、编译、运行
 
@@ -77,3 +77,7 @@ int main(void)  // 程序永远从 main 开始执行
 编译器把人写的**源代码**（文本，`hello.c`）翻译成 CPU 能直接执行的**机器码**（二进制，`hello`）。源代码给人读和修改，可执行文件给机器运行。
 
 </details>
+
+---
+
+<p align="center"><sub><a href="../README.md">↩ 回到 📘 01 · C 入门</a></sub></p>

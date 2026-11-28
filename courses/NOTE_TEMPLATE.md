@@ -6,7 +6,7 @@
   这段注释在 GitHub 上不会显示，可以留着也可以删
 -->
 
-<sub>[📚 课程](../../README.md) › [<📘 01 · C 入门>](../README.md) › 笔记</sub>
+<sub>[🏠 首页](../../../README.md) › [📚 课程](../../README.md) › [<📘 01 · C 入门>](../README.md) › 笔记</sub>
 
 # <编号> · <知识点名称>
 
@@ -45,3 +45,7 @@
 <答案写在这里，先自己想，再点开对>
 
 </details>
+
+---
+
+<p align="center"><sub><a href="../README.md">↩ 回到 <📘 01 · C 入门></a></sub></p>

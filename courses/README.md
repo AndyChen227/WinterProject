@@ -1,3 +1,5 @@
+<sub>[🏠 首页](../README.md) › 📚 课程</sub>
+
 <img src="../projects/ai-pet-car/media/art/mascot-happy.svg" width="90" align="right">
 
 # 📚 课程
@@ -18,11 +20,19 @@
 
 <sub>⬜ 没开始 · 🟨 进行中 · ✅ 完成</sub>
 
+<a id="flow"></a>
+
 ## 🔁 每学完一个知识点
 
-| 📝 1. 笔记 | ⌨️ 2. 代码 | ✅ 3. 打勾 | 🚀 4. 提交 |
-| --- | --- | --- | --- |
-| 复制 [`NOTE_TEMPLATE.md`](NOTE_TEMPLATE.md) 到课程的 `notes/` | 例子自己敲一遍，再写 1–2 个小练习，放进 `code/` | 课程 README 里把 `- [ ]` 改成 `- [x]`，笔记表加一行 | `git add .`<br>`git commit -m "..."`<br>`git push` |
+| | 步骤 | 做什么 |
+| :-: | --- | --- |
+| 📝 | **1.&nbsp;笔记** | 复制 [`NOTE_TEMPLATE.md`](NOTE_TEMPLATE.md) 到对应课程的 `notes/`，按知识点命名<br><sub>例如 `courses/01-c-basics/notes/03-loops.md`</sub> |
+| ⌨️ | **2.&nbsp;代码** | 把课上的例子自己敲一遍，再写 1–2 个自己的小练习<br><sub>放进 `code/`，和笔记同名（`03-loops.c`）</sub> |
+| ✅ | **3.&nbsp;打勾** | 在课程 README 里把学会的知识点 `- [ ]` 改成 `- [x]`，笔记表加一行 |
+| 🚀 | **4.&nbsp;提交** | `git add . && git commit -m "c-basics: loops notes + 2 exercises" && git push` |
+
+> [!IMPORTANT]
+> CS50 的 problem set 答案**不要**放进这个公开仓库，这里只放笔记和自己写的练习。
 
 ## 📁 每门课长这样
 
@@ -35,5 +45,6 @@
     └── 01-hello-c.c   # 代码：和笔记同名
 ```
 
-> [!IMPORTANT]
-> CS50 的 problem set 答案**不要**放进这个公开仓库，这里只放笔记和自己写的练习。
+---
+
+<p align="center"><sub><a href="../README.md">← 🏠 首页</a> &nbsp;·&nbsp; <a href="01-c-basics">📘 01 · C 入门 →</a></sub></p>

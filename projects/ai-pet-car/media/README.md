@@ -1,8 +1,10 @@
-<img src="art/mascot-happy.svg" width="80" align="right">
+<sub>[🏠 首页](../../../README.md) › [🛠️ 项目](../../README.md) › [🐱 AI 电子宠物小车](../README.md) › 🎬 照片和视频</sub>
+
+<img src="art/mascot-happy.svg" width="90" align="right">
 
 # 🎬 media · 照片和视频
 
-接线照片、演示视频（大文件放网盘或 B 站 / YouTube，这里只放链接和小图）。
+> 接线照片、演示视频（大文件放网盘或 B 站 / YouTube，这里只放链接和小图）。
 
 ## 🎨 插图
 
@@ -11,3 +13,7 @@
 <img src="art/stickers.svg" width="100%">
 
 屏幕看板娘 **小橙 Cora** 的立绘和设定在 [`art/cora/`](art/cora)。
+
+---
+
+<p align="center"><sub><a href="../README.md">← 🐱 项目首页</a> &nbsp;·&nbsp; <a href="art/cora">🍊 小橙 Cora →</a></sub></p>

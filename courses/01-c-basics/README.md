@@ -1,4 +1,4 @@
-<sub>[📚 课程](../README.md) › 01 · C 入门</sub>
+<sub>[🏠 首页](../../README.md) › [📚 课程](../README.md) › 01 · C 入门</sub>
 
 <img src="../../projects/ai-pet-car/media/art/mascot-happy.svg" width="90" align="right">
 
@@ -16,6 +16,8 @@
 | :-: | --- | :-: | :-: | :-: | :-: |
 | 01 | Hello, C：写、编译、运行 | [📝](notes/01-hello-c.md) | [💾](code/01-hello-c.c) | 11-26 | ★★★☆☆ |
 | 02 | 库、变量与输入输出 | [📝](notes/02-input-output.md) | [💾](code/02-input-output.c) | 11-27 | ★★★☆☆ |
+
+<sub>✍️ 新笔记从 [笔记模板](../NOTE_TEMPLATE.md) 复制，写完在这张表里加一行。完整流程见 [课程总览](../README.md#flow)。</sub>
 
 ## 🎓 对应 CS50
 

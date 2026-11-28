@@ -1,17 +1,18 @@
+<sub>[🏠 首页](../../README.md) › [🛠️ 项目](../README.md) › 🐱 AI 电子宠物小车</sub>
+
 <div align="center">
 
 <img src="media/art/banner.svg" alt="AI 电子宠物小车" width="100%">
 
-<br>
-
-![status](https://img.shields.io/badge/状态-准备中-FF9EBB?style=for-the-badge)
-![ESP32-S3](https://img.shields.io/badge/ESP32--S3-主控-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![C](https://img.shields.io/badge/C-FreeRTOS-3A7BD5?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-AI%20服务-FFD43B?style=for-the-badge&logo=python&logoColor=black)
-
 **一台住在桌面上的小宠物车** 🐾<br>
 你跟它说话，它会用声音回答你，3.5 寸大屏上的动漫少女会跟着变表情；<br>
 你说“转个圈”“往前走”，它就真的动起来！
+
+[📝 开发计划](docs/PLAN.md) &nbsp;·&nbsp; [🛒 元件清单](hardware/BOM.md) &nbsp;·&nbsp; [🐛 调试记录](docs/devlog) &nbsp;·&nbsp; [📖 术语表](../../GLOSSARY.md)
+
+| 📍 状态 | 🧠 主控 | 💾 小车上的程序 | ☁️ 电脑上的 AI 服务 |
+| :-: | :-: | :-: | :-: |
+| 准备中 | ESP32-S3 | C + FreeRTOS | Python |
 
 </div>
 
@@ -45,25 +46,21 @@
 
 小车的“大脑”是一块巴掌大的开发板（**ESP32-S3**），负责听、说、显示表情和控制轮子；真正“思考”的部分交给电脑上的大模型（DeepSeek / Claude）。整体思路参考了开源项目“小智 AI”，但代码全部自己写。
 
-## 🗺️ 大致步骤
+<a id="steps"></a>
 
-| | 步骤 | 做完之后 |
-| :-: | --- | --- |
-| 📦 | **1. 备齐元件，逐个验货** | 开发板、麦克风、喇叭、屏幕都在面包板上亮起来 |
-| 😊 | **2. 会做表情，会动** | 屏幕上有几种表情，轮子能前进、后退、转圈 |
-| 🎤 | **3. 能听会说** | 能录下你的声音，也能把声音播出来 |
-| 🧠 | **4. 接上 AI** | 你说一句话，它回答你，还会按你说的动起来 |
-| 🚗 | **5. 装成一台车** | 装上底盘和电池，满桌子跑；再慢慢加“宠物感” |
+## 🗺️ 步骤与进度
 
-## 📈 进度
+| | 步骤 | 做完之后 | 对应阶段 | 状态 |
+| :-: | --- | --- | :-: | :-: |
+| 📦 | **1. 备齐元件，逐个验货** | 开发板、麦克风、喇叭、屏幕都在面包板上亮起来 | L0、L1 | ⬜ |
+| 😊 | **2. 会做表情，会动** | 屏幕上有几种表情，轮子能前进、后退、转圈 | L2 | ⬜ |
+| 🎤 | **3. 能听会说** | 能录下你的声音，也能把声音播出来 | L3 | ⬜ |
+| 🧠 | **4. 接上 AI** | 你说一句话，它回答你，还会按你说的动起来 | L3、L4 | ⬜ |
+| 🚗 | **5. 装成一台车** | 装上底盘和电池，满桌子跑；再慢慢加“宠物感” | L4、L5 | ⬜ |
 
-- [ ] 📦 备齐元件，逐个验货
-- [ ] 😊 会做表情，会动
-- [ ] 🎤 能听会说
-- [ ] 🧠 接上 AI
-- [ ] 🚗 装成一台车
+<sub>⬜ 没开始 · 🟨 进行中 · ✅ 完成。L0–L5 是 [开发计划](docs/PLAN.md#stages) 里的六个阶段，每一步具体做什么都写在那里。</sub>
 
-## 📚 想了解更多
+## 📚 文档导航
 
 | | 想看什么 | 去哪里 |
 | :-: | --- | --- |
@@ -101,3 +98,5 @@ ai-pet-car/
 <img src="media/art/mascot-wink.svg" width="70"><br>
 <sub>插图都是为这个项目原创绘制的 SVG，放在 <a href="media/art">media/art</a>。</sub>
 </div>
+
+<p align="center"><sub><a href="../README.md">← 🛠️ 项目</a> &nbsp;·&nbsp; <a href="../../README.md">🏠 首页</a> &nbsp;·&nbsp; <a href="docs/PLAN.md">📝 开发计划 →</a></sub></p>
