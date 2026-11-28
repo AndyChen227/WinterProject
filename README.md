@@ -44,7 +44,7 @@ flowchart LR
 
 | 📘 C 入门 | 📗 C 进阶 | 🔌 ESP32 | ⚙️ FreeRTOS | 🐱 小车 | 🧩 LeetCode |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| ⬜ | ⬜ | ⬜ | ⬜ | ⬜ | 0 / 50 |
+| 🟨 | ⬜ | ⬜ | ⬜ | ⬜ | 0 / 50 |
 
 <sub>⬜ 没开始 · 🟨 进行中 · ✅ 完成。每周日更新一次，没学完的在对应课程 README 里写一句卡在哪。</sub>
 
@@ -78,9 +78,10 @@ flowchart LR
 ```
 .
 ├── courses/                  # 课程
+│   ├── README.md             # 课程总览：路线、进度、学习流程
 │   ├── NOTE_TEMPLATE.md      # 笔记模板，每篇笔记从这里复制
 │   └── 0X-<course>/
-│       ├── README.md         # 大纲 + 知识点清单（学完打勾）
+│       ├── README.md         # 笔记列表 + 知识点清单（学完打勾）
 │       ├── notes/            # 笔记，一个知识点一个 .md
 │       └── code/             # 练习代码，一个知识点一个 .c
 ├── leetcode/                 # 刷题，文件名：<题号>-<题目英文名>.c
@@ -88,7 +89,7 @@ flowchart LR
     └── ai-pet-car/           # AI 电子宠物小车
 ```
 
-- 笔记文件名：`01-variables.md`、`02-loops.md`，按学习顺序编号，代码文件同名（`01-variables.c`）。
+- 笔记文件名：`01-hello-c.md`、`02-input-output.md`，按学习顺序编号，代码文件同名（`01-hello-c.c`）。
 - commit 信息写清楚做了什么，例如 `c-basics: arrays notes + 3 exercises`。
 
 </details>
