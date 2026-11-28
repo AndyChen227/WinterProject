@@ -1,4 +1,4 @@
-<sub>[📚 课程](../README.md) › 04 · FreeRTOS</sub>
+<sub>[🏠 首页](../../README.md) › [📚 课程](../README.md) › 04 · FreeRTOS</sub>
 
 <img src="../../projects/ai-pet-car/media/art/mascot-wink.svg" width="90" align="right">
 
@@ -15,6 +15,8 @@
 | # | 知识点 | 笔记 | 代码 | 日期 | 掌握 |
 | :-: | --- | :-: | :-: | :-: | :-: |
 | | <sub>还没有笔记，学完第一个知识点后在这里加一行</sub> | | | | |
+
+<sub>✍️ 新笔记从 [笔记模板](../NOTE_TEMPLATE.md) 复制，写完在这张表里加一行。完整流程见 [课程总览](../README.md#flow)。</sub>
 
 ## 🧠 知识点
 

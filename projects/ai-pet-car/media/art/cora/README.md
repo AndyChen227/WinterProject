@@ -1,3 +1,5 @@
+<sub>[🏠 首页](../../../../../README.md) › [🛠️ 项目](../../../../README.md) › [🐱 AI 电子宠物小车](../../../README.md) › [🎬 照片和视频](../../README.md) › 🍊 小橙 Cora</sub>
+
 <img src="cora.svg" width="160" align="right">
 
 # 🍊 小橙 Cora · 屏幕看板娘
@@ -17,3 +19,7 @@
 - [`src/draw_cora.py`](src/draw_cora.py)：生成 `cora.svg` 的脚本，运行 `python3 src/draw_cora.py`
 
 > 原创角色，全部用代码绘制。屏幕上的表情和动画等主功能做完再加。
+
+---
+
+<p align="center"><sub><a href="../../README.md">← 🎬 照片和视频</a> &nbsp;·&nbsp; <a href="../../../README.md">🐱 项目首页</a></sub></p>
