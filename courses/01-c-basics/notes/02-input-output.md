@@ -2,7 +2,7 @@
 
 # 02 · 库、变量与输入输出
 
-`🗓️ 2026-11-27` · `🎬 CS50 Week 1` · `⭐⭐⭐☆☆` · [`💾 02-input-output.c`](../code/02-input-output.c)
+`🗓️ 2026-11-27` · `🎬 CS50 Week 1` · `★★★☆☆` · [`💾 02-input-output.c`](../code/02-input-output.c)
 
 > [!NOTE]
 > **一句话**：库是别人写好的函数，`#include` 之后就能用；用户输入的东西装进**带类型的变量**里，再用 `printf` 的占位符打印出来。

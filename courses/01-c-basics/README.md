@@ -14,8 +14,8 @@
 
 | # | 知识点 | 笔记 | 代码 | 日期 | 掌握 |
 | :-: | --- | :-: | :-: | :-: | :-: |
-| 01 | Hello, C：写、编译、运行 | [📝](notes/01-hello-c.md) | [💾](code/01-hello-c.c) | 11-26 | ⭐⭐⭐☆☆ |
-| 02 | 库、变量与输入输出 | [📝](notes/02-input-output.md) | [💾](code/02-input-output.c) | 11-27 | ⭐⭐⭐☆☆ |
+| 01 | Hello, C：写、编译、运行 | [📝](notes/01-hello-c.md) | [💾](code/01-hello-c.c) | 11-26 | ★★★☆☆ |
+| 02 | 库、变量与输入输出 | [📝](notes/02-input-output.md) | [💾](code/02-input-output.c) | 11-27 | ★★★☆☆ |
 
 ## 🎓 对应 CS50
 
