@@ -80,5 +80,6 @@ flowchart LR
 
 <div align="center">
 <img src="projects/ai-pet-car/media/art/mascot-star.svg" width="70"><br>
-<sub>今天也要好好学习哦 ✨</sub>
+<sub>今天也要好好学习哦 ✨</sub><br>
+<sub>横幅里的角色是《某科学的超电磁炮》的御坂美琴，Q 版同人绘制，角色版权归原作者和版权方所有。</sub>
 </div>

@@ -14,6 +14,8 @@
 
 屏幕看板娘 **小橙 Cora** 的立绘和设定在 [`art/cora/`](art/cora)。
 
+首页横幅 [`banner-repo.svg`](art/banner-repo.svg) 右边的角色是《某科学的超电磁炮》的御坂美琴，Q 版同人绘制：用 [`art/src/draw_banner_repo.py`](art/src/draw_banner_repo.py) 一笔一笔画出来的，没有使用官方图片，角色版权归原作者和版权方所有。
+
 ---
 
 <p align="center"><sub><a href="../README.md">← 🐱 项目首页</a> &nbsp;·&nbsp; <a href="art/cora">🍊 小橙 Cora →</a></sub></p>
